@@ -91,5 +91,3 @@
 
 ------
   
-Credit: [Aryagm](https://github.com/Aryagm)
-Last Edited on: 22/06/2021
